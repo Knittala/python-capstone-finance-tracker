@@ -30,5 +30,5 @@ There are a few steps to take in order to run the script:
 - Lists
 - Dictionaries
 - Tuples
-- Exception handling.
+- Exception handling
 
